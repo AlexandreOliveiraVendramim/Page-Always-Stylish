@@ -1,0 +1,45 @@
+.main-content-segundary{
+    height: 52%;
+}
+
+.main-segundary-question {
+    border: 1px solid grey;
+    background-color: rgba(37, 37, 37,0.3);
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 75px;
+    border-radius: 75px;
+    font-family: 'Jacques Francois Shadow', serif;
+    font-size: 40px;
+    margin-bottom: 75px;
+}
+.conteiner-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-img {
+    opacity: 0.5;
+    clip-path: circle(60%);
+    position: relative;
+    right: 27%;
+    margin-bottom: 50px;
+    
+}
+
+
+
+.main-text {
+    width: 50%;
+    font-size: 35px;
+    font-family: "Jacques Francois", serif;
+    z-index: 1;
+    position: absolute;
+    left: 30%;
+}
+
