@@ -23,13 +23,15 @@
     align-items: center;
 }
 
-.main-img {
+.main-img img{
     opacity: 0.5;
+}
+
+.main-img {
     clip-path: circle(60%);
     position: relative;
     right: 27%;
     margin-bottom: 50px;
-    
 }
 
 
@@ -41,5 +43,11 @@
     z-index: 1;
     position: absolute;
     left: 30%;
+}
+
+.bar1 {
+    border: 1px solid black;
+    width: 75%;
+    margin: auto;
 }
 
