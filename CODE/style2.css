@@ -15,6 +15,7 @@
     font-family: 'Jacques Francois Shadow', serif;
     font-size: 40px;
     margin-bottom: 75px;
+    box-shadow: 3px 11px 15px black;
 }
 .conteiner-box {
     width: 100%;
@@ -28,7 +29,7 @@
 }
 
 .main-img {
-    clip-path: circle(60%);
+    clip-path: circle(57%);
     position: relative;
     right: 27%;
     margin-bottom: 50px;
