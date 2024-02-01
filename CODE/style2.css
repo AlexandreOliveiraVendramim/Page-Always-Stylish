@@ -1,3 +1,4 @@
+
 .main-content-segundary{
     height: 52%;
 }
@@ -16,6 +17,7 @@
     font-size: 40px;
     margin-bottom: 75px;
     box-shadow: 3px 11px 15px black;
+    transition: 0.5s;
 }
 .conteiner-box {
     width: 100%;
@@ -52,3 +54,14 @@
     margin: auto;
 }
 
+.main-segundary-question:hover {
+    background-color: #202020;
+    color: #ccc503;
+    border: 1px solid #202020;
+    transition: 0.5s;
+}
+
+.main-text b:hover  {
+    color: #b3ad02;
+    transition: 0.5s;
+}
